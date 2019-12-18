@@ -1,5 +1,7 @@
 <template>
-  <section class="container"></section>
+  <section class="container">
+    <t-button variant="danger">test</t-button>
+  </section>
 </template>
 
 <script>
